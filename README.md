@@ -20,6 +20,8 @@
 | Проект | Описание |
 |--------|----------|
 | [🍕 food-delivery-app](https://github.com/Quaresss/food-delivery-app) | Приложение доставки еды |
+| [🍕 food-tours-platform](https://github.com/Quaresss/food-tours-platform) | Платформа для бронирования гастрономических туров |
+| [🍕 nuxt-ecommerce](https://github.com/Quaresss/nuxt-ecommerce) | Интернет-магазин на Nuxt 3 |
 | [🌸 flower-shop-react](https://github.com/Quaresss/flower-shop-react) | Интернет-магазин цветов |
 | [🔮 tarot-app](https://github.com/Quaresss/tarot-app) | Приложение с картами Таро |
 | [🛒 react_ecommerce](https://github.com/Quaresss/react_ecommerce) | E-commerce на React |
